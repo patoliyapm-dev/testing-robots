@@ -5,7 +5,7 @@ User-agent: Mozilla
 Allow: /
 
 User-agent: *
-Disallow: /
+Allow: /
 
 User-agent: Googlebot
 Allow: /
