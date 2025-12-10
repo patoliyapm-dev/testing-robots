@@ -18,13 +18,13 @@ Allow: /
 
 User-agent: Yahoo-MMCrawler
 Allow: /
-
+ 
 User-agent: Yahoo-slurp
 Allow: /
 
 User-agent: slurp
 Allow: /
-
+ 
 User-agent: Msnbot
 Allow: /
 
@@ -36,3 +36,5 @@ Allow: /
 
 User-agent: bingbot
 Crawl-delay: 10
+
+Sitemap: https://mondoworkwear.com/sitemap
