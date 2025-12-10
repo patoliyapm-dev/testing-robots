@@ -4,6 +4,9 @@ Disallow: /
 User-agent: Firecrawl
 Allow: /
 
+User-agent: FirecrawlAgent
+Allow: /
+
 User-agent: Mozilla
 Allow: /
 
@@ -21,13 +24,13 @@ Allow: /
 
 User-agent: Yahoo-MMCrawler
 Allow: /
- 
+
 User-agent: Yahoo-slurp
 Allow: /
 
 User-agent: slurp
 Allow: /
- 
+
 User-agent: Msnbot
 Allow: /
 
