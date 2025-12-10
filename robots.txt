@@ -1,4 +1,4 @@
-User-agent: Firecrawl
+User-agent: Firecrawl*
 Allow: /
 
 User-agent: Mozilla
