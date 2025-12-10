@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /
 
-User-agent: FirecrawlAgents
+User-agent: FirecrawlAgent
 Allow: /
 
 User-agent: Googlebot
